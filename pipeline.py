@@ -23,7 +23,6 @@ categorical_cols = [cname for cname in X_train.columns if X_train[cname].nunique
 
 numerical_cols = [cname for cname in X_train.columns if X_train[cname].dtype in ['int64', 'float64']]
 
-X_train
 
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
