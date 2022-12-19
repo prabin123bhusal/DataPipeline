@@ -1,4 +1,6 @@
-# INTRODUCTION
+# DATA ACQUISITION AND PREPROCESSING  PIPELINE
+
+## INTRODUCTION
 
 The pipeline helps in the transfer of data in an organized matter. From the source location to the target location the data are allowed to move by a system known as a data pipeline. Data movements from verified and assigned source to equal assigned target applications is done by data pipeline. An organization can have thousands and thousands of data pipelines. After preprocessing data are gathered together online. 
 
@@ -12,7 +14,7 @@ Sometimes, due to some misunderstanding or due to defective instruments or malfu
 Out of all models that could benefit, automata is chosen as an application as the models are quite sensitive to the size of the input.  Any type of processing done on raw data to get it ready for a further data processing operation is referred to as data preprocessing, which is a part of data preparation. It has historically been a crucial first stage in data mining. Data preparation methods have recently been modified to train AI and machine learning algorithms and to run conclusions against them.
 
 
-# IMPLEMENTATION
+## IMPLEMENTATION
 
 The paradigm shift is the modified form of the data acquisition processes. It basically depends upon the transition with the combined process of ETL (extract transform load) to the ELT( extract, load, transform). The transition patterns are based on the type of the processing and it is applied in both in cloud based form or offline form. The data processing and acquisition are now shifting from the ETL pattern to the ELT pattern. 
 
@@ -39,7 +41,7 @@ The implementation of this process starts with the **“Google Colab console”*
 
 To create the data pipeline we need to access the web server log data. For the pipeline we need to create a structure that is separate from the other inputs and takes a defined input and in the result it shows a defined output. For the preprocessing pipeline the **"Google Colab"** is used to collect and develop the database. The log data that needs to be stored in the database and it also ensures that the data is kept in the database for future analysis. Each component of the pipeline feeds data to the other component. The size of the component needs to be kept small so that anyone can scale the components as much as needed.
 
-# EVALUATION
+## EVALUATION
 
 The capability to stop any more observations after the first functionality is verified after each occurrence of "cyclic signals" has been checked. A chain of tests is to be done after verifying the Counter module's behavior. Data preprocessing changes the data into a format that can be used in data mining, machine learning, and other data science tasks more quickly and efficiently. To ensure reliable findings, the techniques are typically applied at the very beginning of the machine learning and AI development pipeline. 
 
